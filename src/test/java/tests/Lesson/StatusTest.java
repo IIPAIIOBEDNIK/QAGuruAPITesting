@@ -1,4 +1,11 @@
-package tests;
+/*
+
+    Занятие 18 Поток 18
+
+ */
+
+
+package tests.Lesson;
 
 import org.junit.jupiter.api.Test;
 
